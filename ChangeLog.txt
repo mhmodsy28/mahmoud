@@ -1,11 +1,20 @@
-{"version_code":452,"content":"
-<p>دعم الموقع</p>
+{"version_code":452648,"content":"
+<p>طھط­ط¯ظٹط« 7.10 ط¶ط¯ ط§ظ„ط­ط¸ط±</p>
 
-<li>رسالة دعم للموقع</li>
-<li>عزيزي المستخدم</li>
-<li>قم بالضغط على تحديث ثم تصفح الموقع بضع دقائق</li>
-<li>ثم قم بالنقر على أي إعلان من الإعلانات</li>
-<li>إدعمنا لنستمر بتطوير النسخة وشكرا</li>
+<li>ظ†ط³ط®ط© ط¶ط¯ ط§ظ„ط­ط¸ط± (ظٹط¬ط¨ ط¹ظ…ظ„ ظ†ط³ط®ط© ط§ط­طھظٹط§ط·ظٹط© ظ„ظ„ظ…ط­ط§ط¯ط«ط§طھ ط«ظ… ط­ط°ظپ ط§ظ„ظˆط§طھط³ ط§ط¨ ظˆطھط«ط¨ظٹطھ ط§ظ„طھط­ط¯ظٹط« ط§ظ„ط¬ط¯ظٹط¯ ط­طھظ‰ ظ„ط§ ظٹطھظ… ط­ط¸ط± ط±ظ‚ظ…ظƒ ظ…ط³طھظ‚ط¨ظ„ط§)</li>
+<li>طھظ…ط¯ظٹط¯ طµظ„ط§ط­ظٹط© ط§ظ„ظ†ط³ط®ط© ظ„ظ…ط¯ط© ط´ظ‡ط±ظٹظ†</li>
+<li>ط§طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط§ط؛ظ„ط§ظ‚ ط§ظ„ظˆط§طھط³ ط§ط¨ ط¹ظ†ط¯ ظپطھط­ ظ…ط­ط§ط¯ط«ط© ظپظٹ ط§طµط¯ط§ط±ط§طھ ط§ظ„ط§ظ†ط¯ط±ظˆظٹط¯ ط§ظ„ظ‚ط¯ظٹظ…</li>
+<li>ط§طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط¸ظ‡ظˆط± ط¹ط¯ط§ط¯ ط§ظ„ط±ط³ط§ط¦ظ„ ط§ظ„ظ…ط®ظپظٹط©</li>
+<li>ط§طµظ„ط§ط­ ظ„ظˆظ† ط§ظ„ط¯ظپط¹ط§طھ ظپظٹ ط´ط§ط´ط© ط§ظ„ظ…ط­ط§ط¯ط«ط©</li>
+<li>ط§طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
 
+<li> Anti-Ban (Please take Backup - Uninstall App / Install GoldWhatsApp v7.10)</li>
+<li> Extend expiry for this Base</li>
+<li> Fixed Hidden Chat Count Showing on Main Screen</li>
+<li> Fixed Payments Color in Attach Menu</li>
+<li> Fixed Crash when open chat in some devices</li>
+<li> Other Fixes</li>
+<p>New Base Updated 7.10</p>
+<p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 ","url":"https://aljajehandalshbly1.blogspot.com/2019/02/blog-post_40.html"
 }

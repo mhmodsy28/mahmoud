@@ -1,19 +1,10 @@
-{"version_code":451214,"content":"
-<p>تحديث 1.00</p>
+{"version_code":452649,"content":"
+<p>طھط­ط¯ظٹط« 1.00</p>
+<li>واتس اب مركز الرؤية الاصدار الاول 1.00</li>
+<li>تم اضافة خيارت الخصوصية كاملة</li>
+<li>تم اضافة ميزة وضع الحالة اكثر من دقيقتين</li>
+<li>والمزيد من المميزات الاخرة اكتسفها بنفسك ارجو ان ينال اعجابكم</li>
 
-<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
-<li>تمديد صلاحية النسخة لمدة شهرين</li>
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
-<li>اصلاح لون الدفعات في شاشة المحادثة</li>
-<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
-<li>اصلاحات اخرى</li>
-
-<li> Anti-Ban (Please take Backup - Uninstall App / Install GBWhatsApp v7.00)</li>
-<li> Extend expiry for this Base</li>
-<li> Fixed Hidden Chat Count Showing on Main Screen</li>
-<li> Fixed Payments Color in Attach Menu</li>
-<li> Fixed Crash when open chat in some devices</li>
-<li> Other Fixes</li>
-
-","url":"https://www.mhmodtro.online/"
+<p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
+","url":"https://visioncenter1.blogspot.com/2020/01/blog-post.html"
 }
